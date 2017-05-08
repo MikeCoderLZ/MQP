@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/repos/opengl/!svn/ver/25/VC/openGL/GL
+END
+wglext.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/repos/opengl/!svn/ver/25/VC/openGL/GL/wglext.h
+END
+glut.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/repos/opengl/!svn/ver/25/VC/openGL/GL/glut.h
+END
+glxext.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/repos/opengl/!svn/ver/25/VC/openGL/GL/glxext.h
+END
+freeglut.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/repos/opengl/!svn/ver/25/VC/openGL/GL/freeglut.h
+END
+freeglut_ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/repos/opengl/!svn/ver/25/VC/openGL/GL/freeglut_ext.h
+END
+glew.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/repos/opengl/!svn/ver/25/VC/openGL/GL/glew.h
+END
+gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/repos/opengl/!svn/ver/25/VC/openGL/GL/gl.h
+END
+glext.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/repos/opengl/!svn/ver/25/VC/openGL/GL/glext.h
+END
+wglew.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/repos/opengl/!svn/ver/25/VC/openGL/GL/wglew.h
+END
+glxew.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/repos/opengl/!svn/ver/25/VC/openGL/GL/glxew.h
+END
+freeglut_std.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/repos/opengl/!svn/ver/25/VC/openGL/GL/freeglut_std.h
+END
+glu.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/repos/opengl/!svn/ver/25/VC/openGL/GL/glu.h
+END

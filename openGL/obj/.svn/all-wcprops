@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/repos/opengl/!svn/ver/25/VC/openGL/obj
+END
+string_extra.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/opengl/!svn/ver/25/VC/openGL/obj/string_extra.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/repos/opengl/!svn/ver/25/VC/openGL/obj/list.h
+END
+obj_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/repos/opengl/!svn/ver/25/VC/openGL/obj/obj_parser.c
+END
+string_extra.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/opengl/!svn/ver/25/VC/openGL/obj/string_extra.c
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/repos/opengl/!svn/ver/25/VC/openGL/obj/list.c
+END
+obj_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/repos/opengl/!svn/ver/25/VC/openGL/obj/obj_parser.h
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/repos/opengl/!svn/ver/39/VC/openGL/dataStruct
+END
+biArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/opengl/!svn/ver/39/VC/openGL/dataStruct/biArray.h
+END
+dListTest
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/opengl/!svn/ver/39/VC/openGL/dataStruct/dListTest
+END
+biTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/repos/opengl/!svn/ver/39/VC/openGL/dataStruct/biTree.h
+END
+cirDList2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/opengl/!svn/ver/39/VC/openGL/dataStruct/cirDList2.c
+END
+cirDList.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repos/opengl/!svn/ver/39/VC/openGL/dataStruct/cirDList.h
+END
+heap.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/repos/opengl/!svn/ver/39/VC/openGL/dataStruct/heap.h
+END
+stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/opengl/!svn/ver/39/VC/openGL/dataStruct/stack.c
+END
+nodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/opengl/!svn/ver/39/VC/openGL/dataStruct/nodes.c
+END
+biArray.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/opengl/!svn/ver/39/VC/openGL/dataStruct/biArray.c
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/opengl/!svn/ver/39/VC/openGL/dataStruct/queue.h
+END
+stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/opengl/!svn/ver/39/VC/openGL/dataStruct/stack.h
+END
+cirDList.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repos/opengl/!svn/ver/39/VC/openGL/dataStruct/cirDList.c
+END
+cirDListTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/opengl/!svn/ver/39/VC/openGL/dataStruct/cirDListTest.c
+END
+nodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/opengl/!svn/ver/39/VC/openGL/dataStruct/nodes.h
+END

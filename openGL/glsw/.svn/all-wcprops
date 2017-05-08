@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/repos/opengl/!svn/ver/51/VC/openGL/glsw
+END
+bstrlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/repos/opengl/!svn/ver/51/VC/openGL/glsw/bstrlib.c
+END
+glsw.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/repos/opengl/!svn/ver/32/VC/openGL/glsw/glsw.h
+END
+bstrlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/repos/opengl/!svn/ver/32/VC/openGL/glsw/bstrlib.h
+END
+glsw.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/repos/opengl/!svn/ver/34/VC/openGL/glsw/glsw.c
+END

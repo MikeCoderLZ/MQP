@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/repos/opengl/!svn/ver/52/VC/openGL/shaders
+END
+uniformtest.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/opengl/!svn/ver/48/VC/openGL/shaders/uniformtest.glsl
+END
+defShader.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/opengl/!svn/ver/51/VC/openGL/shaders/defShader.glsl
+END
+smoothshade.frag
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/opengl/!svn/ver/28/VC/openGL/shaders/smoothshade.frag
+END
+normalShade.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/opengl/!svn/ver/48/VC/openGL/shaders/normalShade.glsl
+END
+smoothshade.vert
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/opengl/!svn/ver/28/VC/openGL/shaders/smoothshade.vert
+END
+smoothshade.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/opengl/!svn/ver/45/VC/openGL/shaders/smoothshade.glsl
+END
